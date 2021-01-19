@@ -1,2 +1,2 @@
 # Resume_
- Resume glass theme
+ Deployment for Digital Ocean

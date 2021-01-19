@@ -122,6 +122,11 @@ input,textarea,select{
 	padding-right:15px;
 }
 
+.padd-20{
+	padding-left:15px;
+	padding-right:15px;
+	padding-top: 20px;
+}
 .container{
 	max-width: 1100px;
 	width: 100%;
@@ -152,6 +157,8 @@ input,textarea,select{
 	right:0%;
 	border: none;
 }
+
+
 
 .btn{
 	font-size: 16px;
